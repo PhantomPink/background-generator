@@ -50,3 +50,4 @@ bgColor1 +" " + bgColor2;
 } 
 
 button.addEventListener('click', setRandom);
+
